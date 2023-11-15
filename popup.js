@@ -9,7 +9,7 @@ chrome.storage.local.get(['url', 'enabled'], function (items) {
 // active functions:
 
 document.getElementById("help").addEventListener('click', () => {
-  alert("New-tab-custom-url changes the default URL of a newly opened tab in Chrome!\r\n \r\nThis project is open source. Find the code at: https://github.com/JakeGinesin/new-tab-custom-url");
+  alert("My New Tab | Edit the URL for your new tab. Open Source on GitHub: https://github.com/disnos9/myNewTab");
 });
 
 document.getElementById("change").addEventListener('click', () => {
