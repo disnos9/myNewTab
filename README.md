@@ -3,3 +3,20 @@ My New Tab is an extension for Chromium-based browsers to change your new tab pa
 
 ## How to Install - Chrome
 ### Step 1: Download the extension
+Go to the [Releases page](https://github.com/disnos9/myNewTab/releases/latest) and download the Source Code (zip) for the most recent release. Then, unzip the file.
+
+### Step 2: Installing the extension
+Go to your extensions page (link depends on your browser - the only listed links are browsers My New Tab was tested on)<br>
+Chrome - chrome://extensions<br>
+Brave - brave://extensions<br>
+If your browser is Chromium-based, the Chrome link should work.<br>
+![](https://github.com/disnos9/myNewTab/blob/main/images/chrome-extensions-page-ss.png?raw=true)
+
+### Step 3: Enable Developer Mode
+At the top right, tick the switch that says "Developer mode". You will see a lot more information about extensions appear on your page. Your page should look something like the image below.<br>
+![](https://github.com/disnos9/myNewTab/blob/main/images/chrome-extensions-developermode-enabled-ss.png?raw=true)
+
+### Step 4: Install the extension
+At the top left, click the "Load Unpacked" and then find the folder for My New Tab. Click "Select" and the extension will be installed!
+
+## Video Tutorial - Chrome
