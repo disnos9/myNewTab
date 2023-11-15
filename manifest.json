@@ -6,6 +6,11 @@
     "default_popup": "popup.html",
     "default_title": "mynewtab"
   },
+  "icons": {
+    "16": "https://github.com/disnos9/myNewTab/blob/main/images/extension-icons/icon16.png?raw=true",
+    "48": "https://github.com/disnos9/myNewTab/blob/main/images/extension-icons/icon48.png?raw=true",
+    "128": "https://github.com/disnos9/myNewTab/blob/main/images/extension-icons/icon128.png?raw=true"
+  },
   "content_scripts": [
     {
       "matches":["<all_urls>"],
