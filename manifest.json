@@ -1,15 +1,15 @@
 {
   "name": "My New Tab",
   "version": "1.1",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "browser_action": {
     "default_popup": "popup.html",
     "default_title": "mynewtab"
   },
   "icons": {
-    "16": "https://github.com/disnos9/myNewTab/blob/main/images/extension-icons/icon16.png?raw=true",
-    "48": "https://github.com/disnos9/myNewTab/blob/main/images/extension-icons/icon48.png?raw=true",
-    "128": "https://github.com/disnos9/myNewTab/blob/main/images/extension-icons/icon128.png?raw=true"
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
   },
   "content_scripts": [
     {
