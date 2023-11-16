@@ -20,6 +20,7 @@ At the top right, tick the switch that says "Developer mode". You will see a lot
 At the top left, click the "Load Unpacked" and then find the folder for My New Tab. Click "Select" and the extension will be installed!
 
 ## Video Tutorial - Chrome
+Note: If the video does not appear for you, I'm going to upload it to YouTube soon so you can view it another way.
 
 
 https://github.com/disnos9/myNewTab/assets/119540345/eaabc1e9-036a-4f08-9b35-9242fa63aeeb
