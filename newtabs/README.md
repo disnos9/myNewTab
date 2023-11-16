@@ -6,5 +6,5 @@ The directory for this path goes as follows:<br>
 newtabs > searchwith[Search engine] > templatename > index.html
 
 ## Search with Google
-### Futuristic UI
+### Futuristic UI | v1.1
 Link: [https://disnos9.github.io/myNewTab/newtabs/searchwithgoogle/futuristicui/index.html](https://disnos9.github.io/myNewTab/newtabs/searchwithgoogle/futuristicui/index.html)
