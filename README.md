@@ -1,4 +1,4 @@
-[Home](https://disnos9.github.io/myNewTab/) | [New Tabs](https://disnos9.github.io/myNewTab/newtabs/README.md) | [GitHub](https://github.com/disnos9/myNewTab)
+[Home](https://disnos9.github.io/myNewTab/) | [New Tabs](https://disnos9.github.io/myNewTab/newtabs/) | [GitHub](https://github.com/disnos9/myNewTab)
 # My New Tab
 My New Tab is an extension for Chromium-based browsers to change your new tab page. We are working on expanding this out to more browsers, but most browsers support Chromium extensions soo...
 
