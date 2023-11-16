@@ -4,6 +4,7 @@ One of the great advantages of using My New Tab is that it comes with free new t
 ## Reading the Directory
 The directory for this path goes as follows:<br>
 newtabs > searchwith[Search engine] > templatename > index.html
+newtabs > nosearch > templatename > name.html
 
 ## Search with Google
 ### Futuristic UI | v1.1
